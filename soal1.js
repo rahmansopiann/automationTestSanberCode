@@ -2,7 +2,7 @@ const prompt = require('prompt-sync')({sigint: true});
 
 const x = prompt('Input x: ');
 
-
+let akarPangkat2 = Math.sqrt(x);
 
 if(x<0){
 
@@ -16,4 +16,4 @@ else if(x % 2 == 1) {
 
 }
 
-else (console.log(Math.sqrt(x))) 
+else (console.log(akarPangkat2)) 

@@ -1,0 +1,25 @@
+{
+  "name": "automationtestsanbercode",
+  "version": "1.0.0",
+  "description": "jawaban soal sanber",
+  "main": "index.js",
+  "scripts": {
+    "test": "node file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahmansopianqa/automationTestSanberCode.git"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "Rahman Sopian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahmansopianqa/automationTestSanberCode/issues"
+  },
+  "homepage": "https://github.com/rahmansopianqa/automationTestSanberCode#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
